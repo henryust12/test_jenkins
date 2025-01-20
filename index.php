@@ -1,3 +1,3 @@
 <?php
 
-echo "Hello World ----uuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuu---";
+echo "Hello World -ABCD-";
